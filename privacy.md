@@ -48,7 +48,7 @@ You are in control. Delete one entry at a time, use **More → Backup & data →
 
 ## Children
 
-Nami is a general finance tool and is not directed at children under 13.
+Nami is a finance tool for adults aged 18 and over. It is not directed at children, and it asks for your age only once, on your phone.
 
 ## Changes to this policy
 
